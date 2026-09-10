@@ -44,8 +44,9 @@ java -cp out LunarSystem
 
 You can either:
 
-1. Open `src/lunar-system-baruch.html` directly in a browser, or
-2. Serve the project locally:
+1. Open `src/lunar-system-baruch.html` directly in a browser,
+2. Open via Figma link: 'https://www.figma.com/make/G2JhQn5p8RaEobxHfeKrlJ/Improve-design-aesthetics?t=MuLDZ6o0oBuMC4fw-20&fullscreen=1', or
+3. Serve the project locally:
 
 ```bash
 cd /workspaces/SampleCUNYSystem
